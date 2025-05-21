@@ -1,0 +1,1 @@
+#__nuxt,#app-container,body,html{display:flex;flex-direction:column;font-family:sans-serif;height:100%;margin:0;padding:0}.app-header{align-items:center;background-color:#333;color:#fff;display:flex;padding:10px 20px}.header-logo{height:40px;margin-right:15px;width:auto}.app-title{font-size:1.5em;font-weight:700}.main-content{flex-grow:1;overflow-y:auto}

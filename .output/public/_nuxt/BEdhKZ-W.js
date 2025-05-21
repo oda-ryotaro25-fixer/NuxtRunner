@@ -1,0 +1,1 @@
+import{d as o,x as n,y as t,z as r}from"./BvIQ4i6F.js";const p=o({__name:"error",props:{error:Object},setup(a){return(s,e)=>(t(),n("div",null,e[0]||(e[0]=[r("h1",null,"Error Page",-1),r("p",null,"Something went wrong.",-1)])))}});export{p as default};
